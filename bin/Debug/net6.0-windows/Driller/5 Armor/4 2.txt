@@ -1,0 +1,3 @@
+Static Discharge
+Whenever your shield breaks it releases a static discharge that has a chance to stun nearby enemies.
+DoubleEnergy

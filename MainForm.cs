@@ -77,6 +77,7 @@ namespace Deep_Build_Galactic
             resources.Add("TurretUp", Resources.TurretUp);
             resources.Add("WatchSwap", Resources.WatchSwap);
             SpawnPerks();
+            LoadStuff();
         }
 
         private void SpawnPerks()
@@ -93,6 +94,15 @@ namespace Deep_Build_Galactic
                         perkBoxes[p, i, j].BackgroundImageLayout = ImageLayout.Center;
                     }
                 }
+        }
+
+        private void LoadStuff()
+        {
+            var chars = Directory.GetDirectories(Directory.GetCurrentDirectory());
+            foreach (string s in chars)
+            {
+                Debug.WriteLine(s);
+            }
         }
 
         private void ButtonEnter(object sender, EventArgs e)

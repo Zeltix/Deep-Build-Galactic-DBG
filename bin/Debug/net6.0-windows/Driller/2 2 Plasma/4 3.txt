@@ -1,0 +1,3 @@
+Reactive Shockwave
++15 Charged Shot Direct Damage, +15 Charged Shot Area Damage
+Area

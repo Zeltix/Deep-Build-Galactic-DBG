@@ -1,0 +1,3 @@
+Boiler Ray
+Enemies killed by the Wave Cooker have a 50% chance to explode, dealing 100 Explosive Area Damage in a 2.5m radius.
+Explosion

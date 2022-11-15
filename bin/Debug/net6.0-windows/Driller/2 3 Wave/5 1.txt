@@ -1,0 +1,3 @@
+Contagion Transmitter
+x1.3 Damage vs enemies afflicted by Neurotoxin, Corrosion, or Sludge Puddles. Additionally, a 10% chance per ammo to spread Neurotoxin from the primary target to nearby enemies.
+Pirate

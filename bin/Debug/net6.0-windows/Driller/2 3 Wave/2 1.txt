@@ -1,0 +1,3 @@
+Heat Sink
+-20% Heat Generation
+TempDown

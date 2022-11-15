@@ -1,0 +1,3 @@
+Protein Disruption Mix
+Increases Corrosive DoT's Slow from 35% to 51.25%, and increases the Sludge Puddle's Slow from 45% to 72.5%
+Boot

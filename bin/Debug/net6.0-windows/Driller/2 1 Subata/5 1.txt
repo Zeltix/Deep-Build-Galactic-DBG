@@ -1,0 +1,3 @@
+Volatile Bullets
++50% Direct Damage dealt to Burning enemies. Bonus damage is Fire element and adds the same amount of Heat, extending the Burn duration.
+Heat

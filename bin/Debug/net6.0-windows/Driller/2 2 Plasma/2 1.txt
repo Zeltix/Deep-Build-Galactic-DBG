@@ -1,0 +1,3 @@
+Heat Shield
+x0.4 Heat per Second when fully charged
+TempDown
