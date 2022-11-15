@@ -1,3 +1,3 @@
 Power Supply Overdrive
-Press Reload to toggle Power Supply Overdrive off/on. When activated, +2.5 Rate of Fire in exchange for x0.1 Shot Width and +40% Heat Generation (this penalty is currently bugged and not affected by other upgrades that affect Heat Generation)
+Press Reload to toggle Power Supply Overdrive off/on. When activated, +2.5 Rate of Fire in exchange for x0.1 Shot Width and +40% Flame Generation (this penalty is currently bugged and not affected by other upgrades that affect Flame Generation)
 Rockets

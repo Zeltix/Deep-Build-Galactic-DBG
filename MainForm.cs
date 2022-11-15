@@ -1,13 +1,12 @@
 using Deep_Build_Galactic.Properties;
 using System.Diagnostics;
+using System.IO;
 using System.Linq.Expressions;
 
 namespace Deep_Build_Galactic
 {
     public partial class MainForm : Form
     {
-        private Dictionary<string, Image> resources = new Dictionary<string, Image>();
-        private PictureBox[,,] perkBoxes = new PictureBox[5,6,3];
         private Control[] perkPanels = new Control[5];
 
         private Loadout currentLoadout;
@@ -26,56 +25,54 @@ namespace Deep_Build_Galactic
             perkPanels[2] = eq1panel;
             perkPanels[3] = eq2panel;
             perkPanels[4] = eq3panel;
-            resources.Add("Acid", Resources.Acid);
-            resources.Add("Angle", Resources.Angle);
-            resources.Add("Area", Resources.Area);
-            resources.Add("Arrows", Resources.Arrows);
-            resources.Add("Bag", Resources.Bag);
-            resources.Add("BigRounds", Resources.BigRounds);
-            resources.Add("Boot", Resources.Boot);
-            resources.Add("Bulb", Resources.Bulb);
-            resources.Add("Cold", Resources.Cold);
-            resources.Add("Dice", Resources.Dice);
-            resources.Add("DoubleEnergy", Resources.DoubleEnergy);
-            resources.Add("DoubleTurret", Resources.DoubleTurret);
-            resources.Add("EnergyUp", Resources.EnergyUp);
-            resources.Add("Expansion", Resources.Expansion);
-            resources.Add("Explosion", Resources.Explosion);
-            resources.Add("Flame", Resources.Flame);
-
-            resources.Add("Fuel", Resources.Fuel);
-            resources.Add("Jar", Resources.Jar);
-            resources.Add("LoveLocator", Resources.LoveLocator);
-            resources.Add("MagPlus", Resources.MagPlus);
-            resources.Add("MagSwap", Resources.MagSwap);
-            resources.Add("MagWhat", Resources.MagWhat);
-            resources.Add("MultiTarget", Resources.MultiTarget);
-            resources.Add("Nuke", Resources.Nuke);
-            resources.Add("NukeReturn", Resources.NukeReturn);
-            resources.Add("PaintBall", Resources.PaintBall);
-            resources.Add("Pickaxe", Resources.Pickaxe);
-            resources.Add("PiercingRound", Resources.PiercingRound);
-            resources.Add("Pirate", Resources.Pirate);
-            resources.Add("Return", Resources.Return);
-            resources.Add("Rockets", Resources.Rockets);
-            resources.Add("Rounds", Resources.Rounds);
-
-            resources.Add("Sands", Resources.Sands);
-            resources.Add("ShieldCrack", Resources.ShieldCrack);
-            resources.Add("ShieldDrop", Resources.ShieldDrop);
-            resources.Add("ShieldExplosion", Resources.ShieldExplosion);
-            resources.Add("ShieldFist", Resources.ShieldFist);
-            resources.Add("ShieldHeart", Resources.ShieldHeart);
-            resources.Add("ShieldHeat", Resources.ShieldHeat);
-            resources.Add("Skull", Resources.Skull);
-            resources.Add("Speaker", Resources.Speaker);
-            resources.Add("Star", Resources.Star);
-            resources.Add("Stunned", Resources.Stunned);
-            resources.Add("Target", Resources.Target);
-            resources.Add("TargetSkull", Resources.TargetSkull);
-            resources.Add("TempDown", Resources.TempDown);
-            resources.Add("TurretUp", Resources.TurretUp);
-            resources.Add("WatchSwap", Resources.WatchSwap);
+            Perk.AddIcon("Acid", Resources.Acid);
+            Perk.AddIcon("Angle", Resources.Angle);
+            Perk.AddIcon("Area", Resources.Area);
+            Perk.AddIcon("Arrows", Resources.Arrows);
+            Perk.AddIcon("Bag", Resources.Bag);
+            Perk.AddIcon("BigRounds", Resources.BigRounds);
+            Perk.AddIcon("Boot", Resources.Boot);
+            Perk.AddIcon("Bulb", Resources.Bulb);
+            Perk.AddIcon("Cold", Resources.Cold);
+            Perk.AddIcon("Dice", Resources.Dice);
+            Perk.AddIcon("DoubleEnergy", Resources.DoubleEnergy);
+            Perk.AddIcon("DoubleTurret", Resources.DoubleTurret);
+            Perk.AddIcon("EnergyUp", Resources.EnergyUp);
+            Perk.AddIcon("Expansion", Resources.Expansion);
+            Perk.AddIcon("Explosion", Resources.Explosion);
+            Perk.AddIcon("Flame", Resources.Flame);
+            Perk.AddIcon("Fuel", Resources.Fuel);
+            Perk.AddIcon("Jar", Resources.Jar);
+            Perk.AddIcon("LoveLocator", Resources.LoveLocator);
+            Perk.AddIcon("MagPlus", Resources.MagPlus);
+            Perk.AddIcon("MagSwap", Resources.MagSwap);
+            Perk.AddIcon("MagWhat", Resources.MagWhat);
+            Perk.AddIcon("MultiTarget", Resources.MultiTarget);
+            Perk.AddIcon("Nuke", Resources.Nuke);
+            Perk.AddIcon("NukeReturn", Resources.NukeReturn);
+            Perk.AddIcon("PaintBall", Resources.PaintBall);
+            Perk.AddIcon("Pickaxe", Resources.Pickaxe);
+            Perk.AddIcon("PiercingRound", Resources.PiercingRound);
+            Perk.AddIcon("Pirate", Resources.Pirate);
+            Perk.AddIcon("Return", Resources.Return);
+            Perk.AddIcon("Rockets", Resources.Rockets);
+            Perk.AddIcon("Rounds", Resources.Rounds);
+            Perk.AddIcon("Sands", Resources.Sands);
+            Perk.AddIcon("ShieldCrack", Resources.ShieldCrack);
+            Perk.AddIcon("ShieldDrop", Resources.ShieldDrop);
+            Perk.AddIcon("ShieldExplosion", Resources.ShieldExplosion);
+            Perk.AddIcon("ShieldFist", Resources.ShieldFist);
+            Perk.AddIcon("ShieldHeart", Resources.ShieldHeart);
+            Perk.AddIcon("ShieldHeat", Resources.ShieldHeat);
+            Perk.AddIcon("Skull", Resources.Skull);
+            Perk.AddIcon("Speaker", Resources.Speaker);
+            Perk.AddIcon("Star", Resources.Star);
+            Perk.AddIcon("Stunned", Resources.Stunned);
+            Perk.AddIcon("Target", Resources.Target);
+            Perk.AddIcon("TargetSkull", Resources.TargetSkull);
+            Perk.AddIcon("TempDown", Resources.TempDown);
+            Perk.AddIcon("TurretUp", Resources.TurretUp);
+            Perk.AddIcon("WatchSwap", Resources.WatchSwap);
             SpawnPerks();
             LoadStuff();
         }
@@ -83,26 +80,28 @@ namespace Deep_Build_Galactic
         private void SpawnPerks()
         {
             for (int p = 0; p < 5; p++)
+            {
                 for (int i = 0; i < 5; i++)
                 {
                     for (int j = 0; j < 3; j++)
                     {
-                        perkBoxes[p, i, j] = new PictureBox();
-                        perkBoxes[p, i, j].Dock = DockStyle.Fill;
-                        perkPanels[p].Controls.Add(perkBoxes[p, i, j]);
-                        perkBoxes[p, i, j].BackgroundImage = resources["Acid"];
-                        perkBoxes[p, i, j].BackgroundImageLayout = ImageLayout.Center;
+                        Customizable.perkBoxes[p, i, j] = new PictureBox();
+                        Customizable.perkBoxes[p, i, j].Dock = DockStyle.Fill;
+                        perkPanels[p].Controls.Add(Customizable.perkBoxes[p, i, j]);
+                        Customizable.perkBoxes[p, i, j].BackgroundImageLayout = ImageLayout.Center;
                     }
                 }
+            }
         }
 
         private void LoadStuff()
         {
             var chars = Directory.GetDirectories(Directory.GetCurrentDirectory());
-            foreach (string s in chars)
-            {
-                Debug.WriteLine(s);
-            }
+            Miner driller = new Miner(Path.GetDirectoryName(chars[0]), "", null);
+            driller.LoadGear(chars[0]);
+            driller.LoadPrimary(0);
+            driller.LoadSecondary(0);
+            driller.LoadEqipment();
         }
 
         private void ButtonEnter(object sender, EventArgs e)

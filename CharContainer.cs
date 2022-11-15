@@ -21,7 +21,6 @@ namespace Deep_Build_Galactic
         {
             currChar = firstChar;
             CurrCharNum = 1;
-            Debug.WriteLine(currChar.Name);
         }
 
         public void Enter(Control chr)

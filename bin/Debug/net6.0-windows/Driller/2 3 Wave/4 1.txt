@@ -1,3 +1,3 @@
 Wide Lens Add-On
-Press Reload to toggle Wide Lens Add-On off/on. When activated, x1.25 Shot Width in exchange for +110% Heat Generation (this penalty is currently bugged and not affected by other upgrades that affect Heat Generation)
+Press Reload to toggle Wide Lens Add-On off/on. When activated, x1.25 Shot Width in exchange for +110% Flame Generation (this penalty is currently bugged and not affected by other upgrades that affect Flame Generation)
 Expansion

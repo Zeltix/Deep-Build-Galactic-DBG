@@ -1,3 +1,3 @@
 Targets Explode
-If the direct stream kills an enemy, there's a 50% chance that they will explode and deal 55 Fire Damage and 55 Heat to all enemies within a 3m radius.
+If the direct stream kills an enemy, there's a 50% chance that they will explode and deal 55 Fire Damage and 55 Flame to all enemies within a 3m radius.
 Explosion
