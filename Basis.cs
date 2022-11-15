@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Deep_Build_Galactic
 {
-    internal class Customizable : Thing
+    internal class Basis
     {
-        public Customizable(string name, string desc, Image icon) : base(name, desc, icon)
-        {
-        }
+
     }
 }

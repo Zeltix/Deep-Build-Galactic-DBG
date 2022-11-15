@@ -1,0 +1,3 @@
+Heat Radiance
+Deal 80 Fire Damage per second and 80 Heat per second to all enemies within 4m of you. The Heat/sec stacks with the direct stream and Sticky Flames' heat sources as well.
+Heat

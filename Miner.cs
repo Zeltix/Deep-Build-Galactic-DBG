@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Deep_Build_Galactic
 {
-    internal class Customizable : Thing
+    internal class Miner : Thing
     {
-        public Customizable(string name, string desc, Image icon) : base(name, desc, icon)
+        public Miner(string name, string desc, Image icon) : base(name, desc, icon)
         {
         }
     }
