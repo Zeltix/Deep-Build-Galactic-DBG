@@ -1,0 +1,3 @@
+Higher Charged Plasma Energy
++15 Charged Shot Direct Damage, +15 Charged Shot Area Damage
+Area

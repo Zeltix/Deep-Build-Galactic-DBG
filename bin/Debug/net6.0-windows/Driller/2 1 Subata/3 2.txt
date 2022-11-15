@@ -1,0 +1,3 @@
+Recoil Compensator
+-33% Spread per Shot, x0.5 Recoil
+Target

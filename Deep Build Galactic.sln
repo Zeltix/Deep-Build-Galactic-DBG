@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Build Galactic", "Deep Build Galactic.csproj", "{56B95F4B-6D18-4D74-9D7F-61CFFE0E1C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56B95F4B-6D18-4D74-9D7F-61CFFE0E1C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B95F4B-6D18-4D74-9D7F-61CFFE0E1C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B95F4B-6D18-4D74-9D7F-61CFFE0E1C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B95F4B-6D18-4D74-9D7F-61CFFE0E1C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BAC3A66-796C-4E8E-B5A3-857CF89556E2}
+	EndGlobalSection
+EndGlobal

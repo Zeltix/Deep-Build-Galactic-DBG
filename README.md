@@ -67,4 +67,3 @@
   <img src="https://cdn-icons-png.flaticon.com/512/7170/7170247.png" alt="Doc" width="20" height="20"/>
   Диаграммы
 </p>
-

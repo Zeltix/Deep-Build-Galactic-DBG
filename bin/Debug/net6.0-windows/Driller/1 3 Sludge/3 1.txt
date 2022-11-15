@@ -1,0 +1,3 @@
+Superaturation
+x1.5 Corrosive DoT duration, x1.5 Sludge Puddle duration
+Sands

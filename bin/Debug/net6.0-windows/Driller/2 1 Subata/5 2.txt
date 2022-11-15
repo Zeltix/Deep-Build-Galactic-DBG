@@ -1,0 +1,3 @@
+Acid-Tipped Bullets
++2 Corrosive-element Direct Damage
+Acid

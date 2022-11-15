@@ -1,0 +1,3 @@
+Concussive Blast
+Staggers creatures far from the blast.
+Stunned

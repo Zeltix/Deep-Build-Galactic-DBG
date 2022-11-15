@@ -1,0 +1,3 @@
+Improved Generator
+Shield begins to regenerate sooner.
+WatchSwap

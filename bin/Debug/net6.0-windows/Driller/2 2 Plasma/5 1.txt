@@ -1,0 +1,3 @@
+Burning Nightmare
+Charged Shots now deal their Direct Damage to enemies hit by the projectile while in-flight, but it no longer explodes upon impact (functionally removing Area Damage). Deals x3 damage vs Frozen targets. Additionally: x0.3 AoE Radius. Regular Shots do [5 plus 25% of their Direct Damage] Flame per shot which can ignite enemies, dealing 15 Fire Damage per Second, and 70% of the Charged Shot's damage is converted to Fire-element + Flame.
+Flame

@@ -1,0 +1,3 @@
+Hollow-Point Bullets
++60% Weakpoint Bonus
+TargetSkull

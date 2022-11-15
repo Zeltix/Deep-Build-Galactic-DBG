@@ -1,0 +1,3 @@
+Flame Shield
+x0.4 Flame per Second when fully charged
+TempDown
