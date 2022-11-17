@@ -1,0 +1,3 @@
+Shockwave
+Your shield breaks violently, damaging all enemies around you in the process.
+Area

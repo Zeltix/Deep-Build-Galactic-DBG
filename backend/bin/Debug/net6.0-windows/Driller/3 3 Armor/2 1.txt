@@ -1,0 +1,3 @@
+Overcharger
+Your shield can absorb more damage before breaking
+ShieldFist
