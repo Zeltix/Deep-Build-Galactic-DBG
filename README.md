@@ -8,6 +8,10 @@
 Целью данного проекта является разработка приложения способного
 упростить для пользователя, создание наборов снаряжения для своего персонажа
 
+[Ветка разработки](https://github.com/Zeltix/Deep-Build-Galactic-DBG/tree/develop)
+
+[Ветка документации](https://github.com/Zeltix/Deep-Build-Galactic-DBG/tree/docs)
+
 ## Содержимое README
 
 - [Возможности](https://github.com/Zeltix/Deep-Build-Galactic-DBG/edit/main/README.md#%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
