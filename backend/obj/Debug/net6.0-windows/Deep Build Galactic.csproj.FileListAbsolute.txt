@@ -1,0 +1,36 @@
+C:\Users\Zeltix\source\repos\Deep Build Galactic\bin\Debug\net6.0-windows\Deep Build Galactic.exe
+C:\Users\Zeltix\source\repos\Deep Build Galactic\bin\Debug\net6.0-windows\Deep Build Galactic.deps.json
+C:\Users\Zeltix\source\repos\Deep Build Galactic\bin\Debug\net6.0-windows\Deep Build Galactic.runtimeconfig.json
+C:\Users\Zeltix\source\repos\Deep Build Galactic\bin\Debug\net6.0-windows\Deep Build Galactic.dll
+C:\Users\Zeltix\source\repos\Deep Build Galactic\bin\Debug\net6.0-windows\Deep Build Galactic.pdb
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.csproj.AssemblyReference.cache
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep_Build_Galactic.MainForm.resources
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep_Build_Galactic.Properties.Resources.resources
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.csproj.GenerateResource.cache
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.AssemblyInfoInputs.cache
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.AssemblyInfo.cs
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.csproj.CoreCompileInputs.cache
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.dll
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\refint\Deep Build Galactic.dll
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.pdb
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\Deep Build Galactic.genruntimeconfig.cache
+C:\Users\Zeltix\source\repos\Deep Build Galactic\obj\Debug\net6.0-windows\ref\Deep Build Galactic.dll
+C:\Users\Zeltix\source\repos\DBG\bin\Debug\net6.0-windows\Deep Build Galactic.exe
+C:\Users\Zeltix\source\repos\DBG\bin\Debug\net6.0-windows\Deep Build Galactic.deps.json
+C:\Users\Zeltix\source\repos\DBG\bin\Debug\net6.0-windows\Deep Build Galactic.runtimeconfig.json
+C:\Users\Zeltix\source\repos\DBG\bin\Debug\net6.0-windows\Deep Build Galactic.dll
+C:\Users\Zeltix\source\repos\DBG\bin\Debug\net6.0-windows\Deep Build Galactic.pdb
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.csproj.AssemblyReference.cache
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep_Build_Galactic.MainForm.resources
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep_Build_Galactic.Properties.Resources.resources
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.csproj.GenerateResource.cache
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.AssemblyInfoInputs.cache
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.AssemblyInfo.cs
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.csproj.CoreCompileInputs.cache
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.dll
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\refint\Deep Build Galactic.dll
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.pdb
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\Deep Build Galactic.genruntimeconfig.cache
+C:\Users\Zeltix\source\repos\DBG\obj\Debug\net6.0-windows\ref\Deep Build Galactic.dll
