@@ -1,0 +1,3 @@
+Temperature Amplifier
+Flames up Burning enemies further, or cools down Frozen enemies further, and makes them radiate their temperature changes to nearby enemies.
+TempDown

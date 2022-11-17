@@ -1,0 +1,3 @@
+Plasma Splash
+Regular Shots now do 10 Fire-element Area Damage in a 1.5m Radius in exchange for -10 Direct Damage.
+Explosion

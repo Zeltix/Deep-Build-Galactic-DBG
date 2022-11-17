@@ -1,0 +1,3 @@
+It Burns!
+Every particle fired by the Flamethrower (ammo consumed) deals 0.2 Fear to all enemies it passes through
+Speaker

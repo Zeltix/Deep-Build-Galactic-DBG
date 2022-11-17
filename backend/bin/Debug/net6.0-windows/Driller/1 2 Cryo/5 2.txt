@@ -1,0 +1,3 @@
+Cold Radiance
+Cool down enemies within 4m of you at a rate of 60 Cold/sec. This stacks with the direct stream and Ice Path's cold sources as well.
+Cold

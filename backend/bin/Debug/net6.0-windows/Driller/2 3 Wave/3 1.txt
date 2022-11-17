@@ -1,0 +1,3 @@
+Densification Ray
+Enemies damaged will have their movespeed slowed by 50% for 1 second
+Boot

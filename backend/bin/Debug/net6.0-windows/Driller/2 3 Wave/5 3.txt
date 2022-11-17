@@ -1,0 +1,3 @@
+Exothermic Reactor
+Every time the Wave Cooker damages a Burning or Frozen enemy, it has a 25% chance to trigger Exothermic Reactor. Exothermic Reactor sets the enemy's temperature back to zero, applies Temperature Shock to them (dealing 200 Disintegrate-element damage), and causes the enemy to deal 50 Temperature "damage" in a 2m radius -- Flame if they were Burning, or Cold if they were Frozen.
+Star

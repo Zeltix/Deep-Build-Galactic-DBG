@@ -1,0 +1,3 @@
+Improved Spooling Mechanism
+x0.4 Charge Time
+EnergyUp

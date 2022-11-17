@@ -1,0 +1,3 @@
+Fragile
+When a particle from Cryo Cannon damages a Frozen enemy and brings its health below 100 "true" hp, it has a (1 - hp/100) probability to deal the remaining hp as Kinetic Damage. This damage gets affected by the current Difficulty Scaling from Hazard level and player count, so at higher difficulties Fragile will no longer be able to score the killing blow.
+Explosion

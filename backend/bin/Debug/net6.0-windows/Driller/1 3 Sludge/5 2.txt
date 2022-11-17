@@ -1,0 +1,3 @@
+Fluoroantimonic Acid
+Increases the Corrosive DoT's average DPS by +8.8, and increases Sludge Puddle's average DPS by +4
+Acid

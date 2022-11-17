@@ -1,0 +1,3 @@
+Thin Containment Field
+Shoot the Charged Shot with a Regular Shot before it impacts anything to make it detonate for 240 Damage and carve terrain within a 3m radius. Additionally: x0.8 Flame per Regular Shot and x0.8 Flame per Charged Shot.
+Star
